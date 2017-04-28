@@ -4,6 +4,6 @@ Creates a Sierpinski Triangle using the method from [this video](https://youtu.b
 
 Clicking moves an outer point
 
-# Screenshots
+## Screenshots
 ![screenshot 1](screenshots/screenshot1.PNG?raw=true)
 ![screenshot 2](screenshots/screenshot2.PNG?raw=true)
