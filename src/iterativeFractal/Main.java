@@ -28,7 +28,7 @@ public class Main
 		}
 		PointRenderer r = new PointRenderer();
 		r.addOuterPoints(points);
-		JFrame frame = new JFrame();
+		JFrame frame = new JFrame("Iterative Fractal");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 		frame.add(r);
